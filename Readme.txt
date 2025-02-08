@@ -1,3 +1,20 @@
+Hospital Management System
+Overview
+The Hospital Management System (HMS) is a web-based application designed to streamline hospital operations, including patient management, doctor appointments, staff records, and billing. Developed using PHP and MySQL, it ensures efficient healthcare delivery and data management.
+
+Features
+Admin Module: Manage doctors, staff, patients, and appointments.
+Doctor Module: View schedules, patient records, and appointments.
+Patient Module: Book appointments, view medical history, and manage bills.
+Billing: Automated invoice generation for patient services.
+Login System: Secure access for admins, doctors, and patients.
+Technologies Used
+Frontend: HTML, CSS, JavaScript
+Backend: PHP
+Database: MySQL
+Server: Apache (XAMPP)
+
+
 How to run the Auto/Taxi Stand Management Project Using PHP and MySQL
 
 . Download the zip file
