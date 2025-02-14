@@ -16,7 +16,7 @@ The Hospital Management System (HMS) is a web-based application designed to stre
 - **Database**: MySQL
 - **Server**: Apache (XAMPP)
 
-## How to Run the Auto/Taxi Stand Management Project Using PHP and MySQL
+## How to Run Project Using PHP and MySQL
 
 1. Download the zip file.
 2. Extract the file and copy the `hospital` folder.
