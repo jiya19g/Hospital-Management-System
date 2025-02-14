@@ -41,3 +41,11 @@ The Hospital Management System (HMS) is a web-based application designed to stre
 - **Doctor Login**: 
   - Username: `anujk123@test.com`
   - Password: `Test@123`
+
+![Database Screenshot](screenshots/Database.png)
+![Home Screenshot](screenshots/Home.png)
+![Admin Screenshot](screenshots/Admin.png)
+![Admin Dashboard Screenshot](screenshots/AdminDashboard.png)
+
+
+
